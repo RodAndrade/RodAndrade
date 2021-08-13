@@ -9,8 +9,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Grupo Tony Veículos',
-                'position' => 'CTO'         
+                'company' => 'OnCar',
+                'position' => 'Senior Full Stack Developer'         
             ]
         ];
     }
