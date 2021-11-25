@@ -9,8 +9,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'OnCar',
-                'position' => 'Senior Full Stack Developer'         
+                'company' => 'Veggi',
+                'position' => 'Full Stack Developer'         
             ]
         ];
     }
@@ -23,6 +23,8 @@ class About extends Me
             Vuejs::class,
             React::class,
             ReactNative::class,
+            NodeJS::class,
+            TypeScript::class,
             Aws::class,
             Asterisk::class,
         ];
