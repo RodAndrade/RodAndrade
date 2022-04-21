@@ -20,13 +20,11 @@ class About extends Me
         return [
             Php::class,
             Javascript::class,
-            Vuejs::class,
             React::class,
             ReactNative::class,
             NodeJS::class,
             TypeScript::class,
             Aws::class,
-            Asterisk::class,
         ];
     }
 }
