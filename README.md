@@ -16,4 +16,4 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodandrade&show_icons=true&theme=dark&locale=en&icon_color=9D0191" alt="rodandrade" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodandrade&show_icons=true&theme=dark&locale=en&icon_color=9D0191&bg_color=0D1116" alt="rodandrade" /></p>
