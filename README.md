@@ -29,4 +29,4 @@
 
 
 <!-- https://metrics.lecoq.io/ -->
-![metrics](./github-metrics.svg)
+![metrics](./github-metrics.svg?v=1)
