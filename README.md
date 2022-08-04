@@ -1,9 +1,9 @@
-<h1 align="center">Rodrigo Andrade</h1>
-<h3 align="center">Senior frontend developer with 7+ years of experience in project, lead, and build web and mobile applications, since ERP, CRM, e-commerce and food delivery app's.</h3>
+<h1>Rodrigo Andrade</h1>
+<h3>Senior frontend developer with 7+ years of experience in project, lead, and build web and mobile applications, since ERP, CRM, e-commerce and food delivery app's.</h3>
 
 <br>
 
-## :computer: About
+## :computer:  About
 
 - 🔭 I’m currently working on [ForSign](https://www.forsign.digital/)
 
