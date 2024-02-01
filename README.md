@@ -1,5 +1,5 @@
 <h1>Rodrigo Andrade</h1>
-<h3>Senior frontend developer with 7+ years of experience in project, lead, and build web and mobile applications, since ERP, CRM, e-commerce and food delivery app's.</h3>
+<h3>Senior frontend developer with 9+ years of experience in project, lead, and build web and mobile applications, since ERP, CRM, e-commerce and food delivery app's.</h3>
 
 <br>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [ForSign](https://www.forsign.digital/)
 
-- 🌱 I’m currently learning **React, NextJs, Jest and Styled Components**
+- 🌱 I’m currently using **React, NextJs, Jest, Cypress and Styled Components**
 
-- 📫 How to reach me **rcandrade@my.com**
+- 📫 How to reach me **rodrigo@rcandrade.com**
 
 <br>
 
