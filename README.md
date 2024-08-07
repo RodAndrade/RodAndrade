@@ -1,11 +1,9 @@
 <h1>Rodrigo Andrade</h1>
-<h3>Senior frontend developer with 9+ years of experience in project, lead, and build web and mobile applications, since ERP, CRM, e-commerce and food delivery app's.</h3>
+<h3>Senior full stack developer with 10+ years of experience in project, lead, and build web and mobile applications, since ERP, CRM, e-commerce and food delivery app's.</h3>
 
 <br>
 
 ## :computer:  About
-
-- 🔭 I’m currently working on [ForSign](https://www.forsign.digital/)
 
 - 🌱 I’m currently using **React, NextJs, Jest, Cypress and Styled Components**
 
@@ -19,6 +17,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34c26)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=264de4)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
